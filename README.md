@@ -1,4 +1,4 @@
-# Reinforcement Learning — JungleEscape & ContinuousMazeEnv
+# Reinforcement Learning - JungleEscape & ContinuousMazeEnv
 
 Two custom OpenAI Gymnasium environments with Q-learning and DQN agents
 built in Python and PyTorch.
